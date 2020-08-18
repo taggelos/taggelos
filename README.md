@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Reach me over https://www.linkedin.com/in/aggelos-toumasis/ 📫
+
 <!--
 **taggelos/taggelos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
